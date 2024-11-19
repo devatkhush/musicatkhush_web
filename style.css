@@ -183,6 +183,25 @@ h1{
         font-size: 0.8rem;
     }
 
+@media (max-width:380px){
+
+    h1 {
+
+        font-size:3.5rem;
+    }
+
+
+
+    #Home h2{
+        font-size: 0.6rem;
+    }
+
+    .Artist{
+        width:70%;
+    }
+
+}
+
  /*  HAMBURGER lINKS MENU */
 
     .hamburger{
