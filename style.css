@@ -183,6 +183,10 @@ h1{
         font-size:5.5rem;
     }
 
+    .name{
+
+        display: block;
+    }
 
 
     #Home h2{
@@ -196,11 +200,6 @@ h1{
         font-size:3.5rem;
     }
 
-    .name{
-
-        display: block;
-        
-    }
 
     #Home h2{
         font-size: 0.6rem;
