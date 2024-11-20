@@ -140,6 +140,12 @@ h1{
 
 }
 
+.name{
+    
+    display: none;
+    
+}
+
 @media (max-width:1490px){
 
     h1 {
@@ -190,7 +196,11 @@ h1{
         font-size:3.5rem;
     }
 
+    .name{
 
+        display: block;
+        
+    }
 
     #Home h2{
         font-size: 0.6rem;
